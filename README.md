@@ -5,7 +5,7 @@ Choo Choo is a train scheduling web app. The user enters the name of a train, it
 
 **Link to the Game**
 
-Click here to see for yourself: [Choo Choo]( https://live.staticflickr.com/65535/40741097523_8fd8038f12.jpg "Choo Choo")
+Click here to see for yourself: [Choo Choo]( https://trevorcollins.github.io/train-schedule/ "Choo Choo")
 
 ## **Technical Details**
 **Technologies Used**
@@ -14,7 +14,7 @@ Javascript, jQuery, Moment.js, Bootstrap
 
 ## **Screenshots**
 
-![Home]( https://live.staticflickr.com/65535/32764235177_6ab0027e7e.jpg)
+![Home]( https://live.staticflickr.com/65535/40741097523_8fd8038f12.jpg)
 
 ## **Screen Capture**
 
